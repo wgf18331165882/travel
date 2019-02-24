@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/dao/UserDao.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/dao/impl/UserDaoImpl.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/Category.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/Favorite.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/ResultInfo.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/Route.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/RouteImg.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/Seller.java" charset="GBK" />
+    <file url="file://D:/travel/src/main/java/cn/itcast/travel/domain/User.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
